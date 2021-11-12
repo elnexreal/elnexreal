@@ -1,4 +1,4 @@
-<p align="left"> <a href="https://www.discord.com/users/354062651883782147" target="_blank"> <img src="https://github-readme-stats.vercel.app/api?username=elnexreal&show_icons=true&theme=dark" alt="discord" width="99%" height="494"/> </a> </p>
+![Mis estadisticas](https://github-readme-stats.vercel.app/api?username=elnexreal&show_icons=true&theme=dark)
 
 ![Mi info de discord](https://lanyard-profile-readme.vercel.app/api/354062651883782147?idleMessage=Gracias%20por%20visitar%20mi%20perfil)
 
