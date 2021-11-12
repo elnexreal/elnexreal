@@ -10,7 +10,7 @@ Soy un desarrollador novato que tambien se rie de cualquier cosa.
 
 #### <b> Redes sociales 🤡 </b>
 
-* [Discord](https://discord.gg/BGchqb9W76)
+* [Discord](https://discord.com/users/354062651883782147)
 * [Twitter](https://twitter.com/elnexreal)
 * [Steam __(Esto se considera red social?)__](https://steamcommunity.com/id/elnexreal/)
 
