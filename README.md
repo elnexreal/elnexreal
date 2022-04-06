@@ -4,7 +4,7 @@
 
 ### <b> Que onda pa 👋 </b>
 
-Hola, soy Axel, mejor conocido por elnexreal.
+Hola, soy Axel (me da risa los q se hacen hackers y literal pongo mi nombre aca xd), mejor conocido por elnexreal.
 
 Soy un desarrollador novato que tambien se rie de cualquier cosa.
 
