@@ -9,4 +9,4 @@ Hola, soy Axel (me da risa los q se hacen hackers y literal pongo mi nombre aca 
 Soy un desarrollador novato que tambien se rie de cualquier cosa.
 
 <h3 align="left">Lenguajes con los cuales trabajo:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="javascript" width="40" height="40"/> </p><p
