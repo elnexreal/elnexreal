@@ -2,7 +2,7 @@
 
 ### Info 😄
 ```
-Nombre: Axel "elnexreal" P...
+Nombre: Axel "elnexreal" C...
 Edad: 15 👦
 País: Argentina 🇦🇷
 Sexo: Siempre 😎
