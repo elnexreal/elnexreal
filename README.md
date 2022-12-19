@@ -1,3 +1,5 @@
+[![Estadisticas](https://github-readme-stats.vercel.app/api?username=elnexreal&theme=tokyonight)](https://github.com/elnexreal)
+
 # Bienvenido a mi perfil 👋
 
 ### Info 😄
