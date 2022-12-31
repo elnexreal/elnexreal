@@ -2,16 +2,13 @@
 
 # Bienvenido a mi perfil 👋
 
-### Info 😄
-```
-Nombre: Axel
-Edad: 15 👦
-País: Argentina 🇦🇷
-Sexo: Siempre 😎
-Género: Masculino
-```
-### Pequeña presentación 👷‍♂️
-Hola buen día, mi nombre es Axel y tengo 15 años. Mi proposito es poder aprender a programar profesionalmente y acompañar eso con conocimientos de ciberseguridad.
+`Me dicen el terror de wordpress...`
+
+Tengo 15 años soy de Buenos Aires, Argentina y me gusta programar boludeces cualquieras y aprender de eso
+
+## Poquitito de historia
+
+Empece a programar el 21 de agosto de 2021 con mi primer proyecto el cual fue [ThisCord](https://github.com/elnexreal/thiscord) (un bot de discord practicamente) que no despego de mas de los 10 servers, desde ahi deje un tiempo la programacion hasta que me encontre con un proyecto en git sobre un [launcher de mods de HL2](https://github.com/Pepsifan04/Smod-Stdl-Launcher), decidi forkearlo para modificarlo a mi gusto y viendo que se me dio muy bien aprender C# decidi que voy a probar a trabajar con mas lenguajes y seguir aprendiendo.
 
 ### Conocimientos
 
@@ -20,7 +17,7 @@ Hola buen día, mi nombre es Axel y tengo 15 años. Mi proposito es poder aprend
 ![HTML5](https://img.shields.io/badge/html5-e34f26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-1572b6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-058e0c.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C#](https://img.shields.io/badge/XAML-1353b5.svg?style=for-the-badge&logo=xaml&logoColor=white)
+![XAML](https://img.shields.io/badge/XAML-1353b5.svg?style=for-the-badge&logo=xaml&logoColor=white)
 
 ### Extras
 ![NodeJS](https://img.shields.io/badge/node.js-4e7544?style=for-the-badge&logo=node.js&logoColor=white)
