@@ -4,8 +4,6 @@
 
 `Me dicen el terror de wordpress...`
 
-Tengo 15 años soy de Buenos Aires, Argentina y me gusta programar boludeces cualquieras y aprender de eso
-
 ## Poquitito de historia
 
 Empece a programar el 21 de agosto de 2021 con mi primer proyecto el cual fue [ThisCord](https://github.com/elnexreal/thiscord) (un bot de discord practicamente) que no despego de mas de los 10 servers, desde ahi deje un tiempo la programacion hasta que me encontre con un proyecto en git sobre un [launcher de mods de HL2](https://github.com/Pepsifan04/Smod-Stdl-Launcher), decidi forkearlo para modificarlo a mi gusto y viendo que se me dio muy bien aprender C# decidi que voy a probar a trabajar con mas lenguajes y seguir aprendiendo.
