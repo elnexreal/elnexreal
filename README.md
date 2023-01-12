@@ -1,4 +1,4 @@
-[![Estadisticas](https://github-readme-stats.vercel.app/api?username=elnexreal&theme=tokyonight&custom_title=elnexreal's%20github%20stats)](https://github.com/elnexreal)
+[![Estadisticas](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=elnexreal&theme=tokyonight&custom_title=elnexreal%27s%20github%20stats)](https://github.com/elnexreal)
 
 # Bienvenido a mi perfil 👋
 
