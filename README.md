@@ -17,10 +17,10 @@ I want to study something related to technology like cibersecurity or programmin
 [![HTML5](https://img.shields.io/badge/html5-e34f26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/css3-1572b6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![C#](https://img.shields.io/badge/c%23-058e0c.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![XAML](https://img.shields.io/badge/XAML-1353b5.svg?style=for-the-badge&logo=xaml&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/xaml/?view=netdesktop-6.0)
 
 ### Extra
 [![NodeJS](https://img.shields.io/badge/node.js-4e7544?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![NPM](https://img.shields.io/badge/npm-cb3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![Express.js](https://img.shields.io/badge/express.js-4d768a.svg?style=for-the-badge&logo=express&logoColor=black)](https://expressjs.com/)
 [![Discord.JS](https://img.shields.io/badge/discord.js-5a69ea.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.js.org/)
+[![XAML](https://img.shields.io/badge/XAML-1353b5.svg?style=for-the-badge&logo=xaml&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/xaml/?view=netdesktop-6.0)
