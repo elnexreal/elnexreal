@@ -17,7 +17,6 @@ I want to study something related to technology like cybersecurity or programmin
 [![HTML5](https://img.shields.io/badge/html5-e34f26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/css3-1572b6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![C#](https://img.shields.io/badge/c%23-058e0c.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![Rust](https://img.shields.io/badge/Rust-e33b26.svg?style=for-the-badge&logo=rust&logoColor=white)](https://doc.rust-lang.org/book/)
 [![V](https://img.shields.io/badge/V-536b8a.svg?style=for-the-badge&logo=v&logoColor=white)](https://vlang.io/)
 
 ### Extra
