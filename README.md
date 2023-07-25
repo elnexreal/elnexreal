@@ -6,7 +6,7 @@
 
 ## About me
 
-My name is Axel, i'm currently 15 years old and my birthday is on June 28
+My name is Axel, i'm currently 16 years old and my birthday is on June 28
 
 I want to study something related to technology like cybersecurity or programming, also i want to enter the police with one of my siblings.
 
