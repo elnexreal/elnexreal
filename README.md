@@ -5,8 +5,8 @@
 
 ## About me
 
-Im a student from Buenos Aires, Argentina. I currently live with my parents but my plans are going to be to live with my brother while im studying software engineering.<br/>
-I like everything related to technology and also i'm interested in music production.
+<h2>Im a student from Buenos Aires, Argentina. I'm currently studying in high school and i would like to study sofware engineering in the university.<br/>
+I like everything related to technology and i'm also interested in music production.</h2>
 
 ### What i've worked with
 
