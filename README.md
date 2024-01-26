@@ -22,7 +22,7 @@ I like everything related to technology and i'm also interested in music product
 [![React](https://img.shields.io/badge/react-222222.svg?style=for-the-badge&logo=react&logoColor=149eca&labelColor=000000)](https://react.dev/)
 [![NextJS](https://img.shields.io/badge/nextjs-222222.svg?style=for-the-badge&logo=nextdotjs&logoColor=black&labelColor=ffffff)](https://nextjs.org/)
 [![Dotnet](https://img.shields.io/badge/.net-222222.svg?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=6c287e)](https://dotnet.microsoft.com/)
-[![Vite](https://img.shields.io/badge/vite-222222.svg?style=for-the-badge&logo=vite&labelColor=000000)](https://dotnet.microsoft.com/)
+[![Vite](https://img.shields.io/badge/vite-222222.svg?style=for-the-badge&logo=vite&labelColor=000000)](https://vitejs.dev/)
 
 ### Extras
 [![NodeJS](https://img.shields.io/badge/node.js-222222?style=for-the-badge&logo=node.js&logoColor=white&labelColor=4e7544)](https://nodejs.org/en/)
