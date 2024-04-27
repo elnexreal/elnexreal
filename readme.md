@@ -5,5 +5,5 @@
 
 ## About me
 
-Im a student from Buenos Aires, Argentina. I'm currently studying in high school and i would like to study sofware engineering in the university.<br/>
+Im a student from Buenos Aires, Argentina. I'm currently studying in high school and i would like to study software engineering in the university.<br/>
 I like everything related to technology and i'm also interested in music production.
